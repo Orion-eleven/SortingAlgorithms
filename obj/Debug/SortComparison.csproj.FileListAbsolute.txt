@@ -1,0 +1,8 @@
+C:\Users\onaid\source\repos\SortComparison\bin\Debug\SortComparison.exe.config
+C:\Users\onaid\source\repos\SortComparison\bin\Debug\SortComparison.exe
+C:\Users\onaid\source\repos\SortComparison\bin\Debug\SortComparison.pdb
+C:\Users\onaid\source\repos\SortComparison\obj\Debug\SortComparison.csproj.AssemblyReference.cache
+C:\Users\onaid\source\repos\SortComparison\obj\Debug\SortComparison.csproj.SuggestedBindingRedirects.cache
+C:\Users\onaid\source\repos\SortComparison\obj\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\Users\onaid\source\repos\SortComparison\obj\Debug\SortComparison.exe
+C:\Users\onaid\source\repos\SortComparison\obj\Debug\SortComparison.pdb
